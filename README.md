@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdulmajeed
-- 👀 I’m interested in Laravel, MySql, JavaScript and CSS
+- 👀 I’m interested in Laravel, Livewire, Filamentphp, MySql, JavaScript and CSS
 - 📫 You can reaach me by my email mjood10tn@gmail.com
 
 <!---
