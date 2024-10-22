@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulmajeed
-- 👀 I’m interested in Laravel, Livewire, Filamentphp, MySql, JavaScript and CSS
-- 📫 You can reaach me by my email mjood10tn@gmail.com
+- 👀 I’m interested in Laravel, Livewire, Filamentphp, MySql, JavaScript, and CSS
+- 📫 You can reach me by email at mjood10tn@gmail.com
 
 <!---
 mjood10tn/mjood10tn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
