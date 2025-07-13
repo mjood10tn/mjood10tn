@@ -1,8 +1,35 @@
-- 👋 Hi, I’m Abdulmajeed
-- 👀 I’m interested in Laravel, Livewire, Filamentphp, MySql, JavaScript, and CSS
-- 📫 You can reach me by email at mjood10tn@gmail.com
+# 👋 Hi, I'm Abdulmajeed Alashrah
 
-<!---
-mjood10tn/mjood10tn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a full-stack developer with a focus on building practical and scalable web applications that solve real business problems.
+
+---
+
+## 🛠 Tech Stack
+
+- **Back End:** Laravel, Livewire, Scriptcase, Redis, MySQL
+- **Front End:** Tailwind CSS, Bootstrap, JavaScript
+- **Mobile:** React Native, Expo
+- **DevOps:** Laravel Forge, cPanel
+- **CMS:** Drupal
+
+---
+
+
+
+## 🧠 What I'm Into
+
+- Building scalable, full-stack web applications  
+- Optimizing apps for high traffic and speed (Redis, database tuning)  
+- Designing clean, intuitive UI/UX  
+- Automating workflows for teams and organizations  
+- Creating digital tools that streamline operations  
+- Testing and improving web app security  
+- Architecting reliable, maintainable systems
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulmajeed-alashrah-745781173/)
+- 📬 Email: a.s.alashrah@gmail.com
+
